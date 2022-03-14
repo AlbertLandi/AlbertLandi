@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋🏻
 ### 👨🏻‍🎓 I'm Alberto, a Systems Engineer from Venezuela!
 
 - 👨🏻‍💻 I’m currently learning about **iOS Development** using **Swift** and **SwiftUI**!
