@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m currently learning about **iOS Development** using **Swift** and **SwiftUI**!
   
 - 📄 I have a background in **academic research**! My undergrad thesis in **Machine Learning and Computer Vision** was awarded an **_Honorable Mention_** by the Jury at Universidad Metropolitana. I've also had an amazing oportunity to turn my work into **research papers** for **international conferences on ML** in **Mexico** and the **United States of America**: 
-  - XIII Congreso Mexicano de Inteligencia Artificial, **COMIA 2021**. The Research paper has been scheduled to be published at the "_Research in Computing Science_" scientific research journal Volume 150(5), 2021. 
+  - XIII Congreso Mexicano de Inteligencia Artificial, **COMIA 2021**. The Research paper is now available in the hard copy of the scientific research journal **"_Research in Computing Science_" Volume 150(5), 2021**. More information int the following **[link](https://www.rcs.cic.ipn.mx)**.
   - [LatinX in AI Research Workshop](https://research.latinxinai.org/papers/icml/2021/pdf/paper_12.pdf) at **International Conference on Machine Learning 2021**.
 
 - 📫 Learn more about my **education**, **research** and **work experience** through my **[LinkedIn Profile](https://www.linkedin.com/in/alberto-landi-corti%C3%B1as-269b8111a/?locale=en_US)**. Feel free to **contact me** at any time!
