@@ -4,8 +4,13 @@
 - 👨🏻‍💻 I’m currently learning about **iOS Development** using **Swift** and **SwiftUI**!
   
 - 📄 I have a background in **academic research**! My undergrad thesis in **Machine Learning and Computer Vision** was awarded an **_Honorable Mention_** by the Jury at Universidad Metropolitana. I've also had an amazing oportunity to turn my work into **research papers** for **international conferences on ML** in **Mexico** and the **United States of America**: 
-  - XIII Congreso Mexicano de Inteligencia Artificial, **COMIA 2021**. The Research paper is now available in the hard copy of the scientific research journal **"_Research in Computing Science_" Volume 150(5), 2021**. More information int the following **[link](https://www.rcs.cic.ipn.mx)**.
+  - XIII Congreso Mexicano de Inteligencia Artificial, **COMIA 2021**. 
+    - [Oral Presentation (Spanish)](https://m.facebook.com/SMIA.Mexico/videos/21-4-rob%C3%B3tica-y-reconocimiento-de-patrones-3-moderador-gilberto-ochoa/895246394654159/?_rdr)
+    - The Research paper is now available in the hard copy of the scientific research journal **"_Research in Computing Science_" Volume 150(5), 2021**. More information about RCS in the following **[link](https://www.rcs.cic.ipn.mx)**.
   - [LatinX in AI Research Workshop](https://research.latinxinai.org/papers/icml/2021/pdf/paper_12.pdf) at **International Conference on Machine Learning 2021**.
+    - [Oral Presentation](https://www.youtube.com/watch?v=nwK7eNK0auc&list=PLFHvi5sdWF5VqqqQvVC5SuBY7ecSgqequ&index=16&ab_channel=LatinXinAI)
+    - [Poster](https://research.latinxinai.org/papers/icml/2021/png/poster_12.png)
+    - [Q&A Session](https://youtu.be/XhjK9DxFh_Q?t=289)  
 
 - 📫 Learn more about my **education**, **research** and **work experience** through my **[LinkedIn Profile](https://www.linkedin.com/in/alberto-landi-corti%C3%B1as-269b8111a/?locale=en_US)**. Feel free to **contact me** at any time!
 
