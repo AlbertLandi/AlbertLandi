@@ -2,7 +2,7 @@
 ### 👨🏻‍🎓 I'm Alberto, a Systems Engineer from Venezuela! 🇻🇪
 
 
-- 🔭 I’m currently working at [QUASH.ai](quash.ai) as a **Data Scientist**, helping lenders improve their credit approval rate using data engineering and machine learning techniques.
+- 🔭 I’m currently working at [QUASH.ai](https://quash.ai/) as a **Data Scientist**, helping lenders improve their credit approval rate using data engineering and machine learning techniques.
 
 - 👨🏻‍💻 I’m interested about **iOS Development** using **Swift** and **SwiftUI**!
   
