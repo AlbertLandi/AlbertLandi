@@ -2,7 +2,11 @@
 ### 👨🏻‍🎓 I'm Alberto, a Systems Engineer from Venezuela! 🇻🇪
 
 
-- 🔭 I’m currently working at [QUASH.ai](https://quash.ai/) as a **Data Scientist**, helping lenders improve their credit approval rate using data engineering and machine learning techniques.
+- 🎓 I’m a **MSc in Artificial Intelligence** student at the **University of Santiago de Compostela (USC)** in Spain.
+
+- 🔭 I’m currently working at [CiTIUS](https://citius.usc.es/) as a **Research Collaborator**, focusing on advanced research in artificial intelligence and machine learning.
+
+- 🔭 I previously worked at [QUASH.ai](https://quash.ai/) as a **Data Scientist**, where I helped lenders improve their credit approval rate using data engineering and machine learning techniques.
 
 - 👨🏻‍💻 I’m interested about **iOS Development** using **Swift** and **SwiftUI**!
   
@@ -17,7 +21,7 @@
 
 - 📫 Learn more about my **education**, **research** and **work experience** through my **[LinkedIn Profile](https://www.linkedin.com/in/alberto-landi-corti%C3%B1as-269b8111a/?locale=en_US)**. Feel free to **contact me** at any time!
 
-<!--
+
 ### ⚡ About my GitHub:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=AlbertLandi&show_icons=true&count_private=true&hide=stars,issues" />
@@ -26,7 +30,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertLandi&layout=compact" />
 </a>
--->
+
 
 ### 💻 Technology Stack:
 <p align="left"> 
