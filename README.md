@@ -2,7 +2,7 @@
 ### 👨🏻‍🎓 I'm Alberto, a Systems Engineer from Venezuela! 🇻🇪
 
 
-- 🎓 I’m a **MSc in Artificial Intelligence** student at the **University of Santiago de Compostela (USC)** in Spain.
+- 🎓 I’m a **M.Sc. in Artificial Intelligence** student at the **University of Santiago de Compostela (USC)** in Spain.
 
 - 🔭 I’m currently working at [CiTIUS](https://citius.usc.es/) as a **Research Collaborator**, focusing on advanced research in artificial intelligence and machine learning.
 
